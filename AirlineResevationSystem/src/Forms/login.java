@@ -6,15 +6,7 @@ import javax.swing.JOptionPane;
 import java.util.Calendar;
 import java.awt.event.*;
 import java.text.SimpleDateFormat;
-/*
- * Airline Reservation system
- * Designed and Developed by cbsecsnip.in.
- */
 
-/**
- *
- * @author Vishal, Vaishali, Urmee
- */
 public class login extends javax.swing.JFrame {
     Connection con;
     Statement smt;
